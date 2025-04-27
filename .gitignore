@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+dist/
+package-lock.json
+node_modules/
+build/
